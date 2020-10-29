@@ -61,3 +61,47 @@ a:hover {
 h1 {
     color: lightcyan;
 }
+
+.original {
+    color: darkslateblue;
+}
+
+.additional {
+   color: lightsalmon; 
+}
+
+#rank1 {
+    color:red;
+}
+
+#rank2 {
+    color:yellow;
+}
+
+#rank3 {
+    color:black;
+}
+
+#rank4 {
+    color:green;
+}
+
+#rank5 {
+    color:blue;
+}
+
+ul {
+    color: blue
+}
+
+.star {
+    color: red;
+}
+
+#wars {
+    color: yellow;
+}
+
+.list-box {
+    border: 2px solid black;
+}
