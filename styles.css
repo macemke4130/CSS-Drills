@@ -1,0 +1,63 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: rgb(212, 212, 212);
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+}
+
+a:hover {
+    color: black;
+    cursor: pointer;
+    font-weight: 700;
+}
+
+.span-highlight {
+    color: blue;
+    font-weight: 700;
+}
+
+.boxes {
+    margin: 1em;
+    padding: 1em;
+    border: 2px solid white;
+    border-radius: 10px;
+    width: 30em;
+    display: block;
+}
+
+#box1{
+    background-color: red;
+}
+
+#box2{
+    background-color: pink;
+}
+
+#box3{
+    background-color: green;
+}
+
+#box4{
+    background-color: purple;
+}
+
+.fpo {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: darkgreen;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+
+h1 {
+    color: lightcyan;
+}
